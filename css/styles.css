@@ -10,7 +10,7 @@ margin-top: 65px;
 .column {
 width: 300px;
 float: left;
-margin-top: 60px;
+margin-top: 65px;
 border: 3px solid blue;
 }
 .sidebar {
@@ -22,8 +22,10 @@ border: 3px solid blue;
   background-color: tan;
   margin-right: 125px;
   }
+.columntitle {
+width: 320px;
+border: 3px solid purple
+}
+.highlight {color: red;
 
-.h3 {
-text-decoration: orangered;
-
-  }
+}

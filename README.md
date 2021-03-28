@@ -1,6 +1,6 @@
 # Portfolio README
 
-#### {Shows what i've learned in html so far_
+#### _Programming Portfolio_
 
 #### By _**Noah Woodrum**_
 
@@ -17,7 +17,11 @@ _This website is made to show what I have learned in HTML and CSS, This includes
 
 ## Setup/Installation Requirements
 
-* _Web Browser_
+* _Download from Github_
+* _Clone from a repository_
+* _open with the GUI
+
+_link to Github repository(https://github.com/NoahWoodrum/Portfolio.git)
 
 
 ## Known Bugs
@@ -28,7 +32,7 @@ _This website is made to show what I have learned in HTML and CSS, This includes
 
 _MIT License
 
-Copyright (c) [2020] [NoahWoodrum]
+Copyright (c) [2021] [Noah Woodrum]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

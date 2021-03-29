@@ -19,6 +19,9 @@ padding: 4px;
   border: 3px solid orange;
   float:left;
   }
+.jumbotron .columnskills h3 {
+  text-align: center;
+}
 .sidebar {
   width: 29%;
   float: right;
@@ -33,4 +36,7 @@ width: 320px;
 border: 3px solid purple
 }
 .highlight {color: red;
+}
+.jumbotron .column h3 {
+  text-align: center;
 }

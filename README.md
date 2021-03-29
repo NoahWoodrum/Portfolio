@@ -17,9 +17,9 @@ _This website is made to show what I have learned in HTML and CSS, This includes
 
 ## Setup/Installation Requirements
 
-* _Download from Github_
-* _Clone from a repository_
-* _open with the GUI
+* _Clone this repository to your desktop_
+* _Navigate to the top of the directory_
+* _open with the GUI_
 
 _link to Github repository(https://github.com/NoahWoodrum/Portfolio.git)
 
